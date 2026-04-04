@@ -35,4 +35,5 @@ Yazılım alanında kendimi geliştirerek farklı teknolojilerde projeler üretm
 ---
 
 ## 📫 İletişim
-- GitHub: https://github.com/kullaniciadin
+- GitHub: https://github.com/cagridgnn
+  
