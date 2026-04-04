@@ -1,36 +1,49 @@
-# 👋 Merhaba, ben Çağrı
+<h1 align="center">👋 Merhaba, ben Çağrı</h1>
 
-🎓 Yazılım Mühendisliği öğrencisiyim  
-💻 Farklı alanlarda projeler geliştirerek kendimi geliştirmeye çalışıyorum  
+<p align="center">
+🎓 Yazılım Mühendisliği öğrencisi <br>
+💻 Farklı alanlarda projeler geliştiriyorum <br>
+🚀 Kendimi sürekli geliştirmeye odaklıyım
+</p>
 
 ---
 
 ## 🚀 Hakkımda
 - 🔍 Yeni teknolojileri öğrenmeye meraklıyım  
 - 🌐 Web, yapay zeka ve uygulama geliştirme ile ilgileniyorum  
-- 🧠 Öğrenme odaklı ve deneysel projeler geliştiriyorum  
+- 🧠 Öğrenme odaklı projeler geliştiriyorum  
 
 ---
 
 ## 🛠️ Teknolojiler
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+<p>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/-HTML-black?style=flat&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS-black?style=flat&logo=css3"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
+</p>
 
 ---
 
 ## 📌 Öne Çıkan Projeler
-- 🔤 Dyslexia Web Düzenleyici → Chrome extension  
+- 🔤 Dyslexia Web Düzenleyici → Chrome Extension  
 - 💬 SocketChatApp → Gerçek zamanlı chat uygulaması  
-- 🤖 LLMChatBot → Yapay zeka chatbot denemesi  
-- 🖼️ OpenCV Image Processor → Görüntü işleme çalışması  
+- 🤖 LLMChatBot → Yapay zeka chatbot  
+- 🖼️ OpenCV Image Processor → Görüntü işleme  
+
+---
+
+## 📊 GitHub İstatistiklerim
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🎯 Hedefim
-Yazılım alanında kendimi geliştirerek farklı teknolojilerde projeler üretmek ve deneyim kazanmak  
+Yazılım alanında kendimi geliştirerek daha büyük ve kapsamlı projeler üretmek  
 
 ---
 
