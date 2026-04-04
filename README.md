@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Merhaba, ben Çağrı
 
-<!--
-**Cagridgnn/Cagridgnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Yazılım Mühendisliği öğrencisiyim  
+💻 Farklı alanlarda projeler geliştirerek kendimi geliştirmeye çalışıyorum  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+- Farklı teknolojilerle çalışmayı ve yeni şeyler öğrenmeyi seviyorum  
+- Web, yapay zeka ve uygulama geliştirme alanlarında projeler yaptım  
+- Genellikle öğrenme odaklı ve deneysel projeler geliştiriyorum  
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+- JavaScript  
+- Python  
+- HTML / CSS  
+- Git & GitHub  
+
+---
+
+## 📌 Öne Çıkan Projeler
+- Dyslexia Web Düzenleyici → Chrome extension projesi  
+- SocketChatApp → Gerçek zamanlı mesajlaşma uygulaması  
+- LLMChatBot → Yapay zeka tabanlı chatbot denemesi  
+- OpenCV Image Processor → Görüntü işleme çalışmaları  
+
+---
+
+## 🎯 Hedefim
+Yazılım alanında kendimi geliştirerek farklı teknolojilerde projeler üretmek ve deneyim kazanmak  
+
+---
+
+## 📫 İletişim
+- GitHub: https://github.com/cagridgnn
