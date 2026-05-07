@@ -63,8 +63,5 @@ Zafiyet analizi ve risk sınıflandırması üzerine geliştirilen ekip tabanlı
 # 📫 İletişim
 
 - GitHub: https://github.com/cagridgnn
-- LinkedIn: https://linkedin.com/in/cagridgnn
-
----
-
+- 
 ⭐ Sürekli öğreniyor, geliştiriyor ve yeni projeler üretiyorum.
