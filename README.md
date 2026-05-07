@@ -1,38 +1,80 @@
-# 👋 Merhaba, ben Çağrı
+Hi there 👋
 
-🎓 Yazılım Mühendisliği öğrencisiyim  
-💻 Farklı alanlarda projeler geliştirerek kendimi geliştirmeye çalışıyorum  
+I’m Çağrı Doğan, a Computer Engineering student interested in cybersecurity, web technologies, and accessibility-focused software development.
 
----
+Currently working on:
 
-## 🚀 Hakkımda
-- 🔍 Yeni teknolojileri öğrenmeye meraklıyım  
-- 🌐 Web, yapay zeka ve uygulama geliştirme ile ilgileniyorum  
-- 🧠 Öğrenme odaklı ve deneysel projeler geliştiriyorum  
+* 🔐 Cybersecurity projects and vulnerability mapping systems
+* 🌐 Web-based transfer reservation systems
+* 🧠 Accessibility tools for dyslexia-friendly browsing
+* ⚡ Chrome extensions with AI-supported features
 
----
+⸻
 
-## 🛠️ Teknolojiler
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+🚀 Projects
 
----
+🔹 Disleksi-Web-Düzenleyici
 
-## 📌 Öne Çıkan Projeler
-- 🔤 Dyslexia Web Düzenleyici → Chrome extension  
-- 💬 SocketChatApp → Gerçek zamanlı chat uygulaması  
-- 🤖 LLMChatBot → Yapay zeka chatbot denemesi  
-- 🖼️ OpenCV Image Processor → Görüntü işleme çalışması  
+A Chrome extension designed to improve web readability for individuals with dyslexia.
 
----
+Features
 
-## 🎯 Hedefim
-Yazılım alanında kendimi geliştirerek farklı teknolojilerde projeler üretmek ve deneyim kazanmak  
+* Dyslexia-friendly reading mode
+* Font and spacing adjustments
+* AI-powered text simplification
+* Full-page readability enhancement
+* Right-click context menu integration
 
----
+⸻
 
-## 📫 İletişim
-- GitHub: https://github.com/cagridgnn
+🔹 MergenSec
+
+A cybersecurity team project focused on vulnerability mapping and risk analysis.
+
+My Contributions
+
+* Vulnerability mapping module
+* CVE matching system
+* CVSS-based risk classification
+* JSON reporting system
+
+⸻
+
+🛠 Tech Stack
+
+Languages
+
+* Java
+* JavaScript
+* Python
+* HTML
+* CSS
+
+Tools & Technologies
+
+* Git & GitHub
+* Chrome Extension API
+* WordPress
+* Elementor
+* VS Code
+
+⸻
+
+📚 Currently Learning
+
+* Advanced Cybersecurity Concepts
+* Secure Software Development
+* AI Integration in Browser Extensions
+* Object-Oriented Programming
+
+⸻
+
+📫 Contact
+
+* GitHub: https://github.com/cagridgnn
+* LinkedIn: https://linkedin.com/in/cagridgnn
+  
+
+⸻
+
+⭐ Always building, learning, and improving.
