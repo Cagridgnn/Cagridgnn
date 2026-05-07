@@ -1,80 +1,70 @@
-Hi there 👋
+# Merhaba 👋
 
-I’m Çağrı Doğan, a Computer Engineering student interested in cybersecurity, web technologies, and accessibility-focused software development.
+Ben Çağrı Doğan, yazılım geliştirme alanında projeler üreten bir Yazılım Mühendisiyim.  
+Web teknolojileri, tarayıcı eklentileri, yapay zeka destekli sistemler ve kullanıcı deneyimi odaklı uygulamalar geliştiriyorum.
 
-Currently working on:
+---
 
-* 🔐 Cybersecurity projects and vulnerability mapping systems
-* 🌐 Web-based transfer reservation systems
-* 🧠 Accessibility tools for dyslexia-friendly browsing
-* ⚡ Chrome extensions with AI-supported features
+# 🚀 Projelerim
 
-⸻
+## 🔹 Disleksi-Web-Düzenleyici
 
-🚀 Projects
+Disleksi bireyler için web sitelerini daha okunabilir hale getiren bir Chrome uzantısı.
 
-🔹 Disleksi-Web-Düzenleyici
+### Özellikler
+- Disleksi dostu okuma modu
+- Yazı tipi ve satır aralığı düzenleme
+- AI destekli metin sadeleştirme
+- Tam sayfa okunabilirlik modu
+- Sağ tık menüsü entegrasyonu
 
-A Chrome extension designed to improve web readability for individuals with dyslexia.
+---
 
-Features
+## 🔹 MergenSec
 
-* Dyslexia-friendly reading mode
-* Font and spacing adjustments
-* AI-powered text simplification
-* Full-page readability enhancement
-* Right-click context menu integration
+Zafiyet analizi ve risk sınıflandırması üzerine geliştirilen ekip tabanlı proje.
 
-⸻
+### Katkılarım
+- Vulnerability Mapping modülü
+- CVE eşleştirme sistemi
+- CVSS tabanlı risk analizi
+- JSON raporlama sistemi
 
-🔹 MergenSec
+---
 
-A cybersecurity team project focused on vulnerability mapping and risk analysis.
+# 🛠️ Teknolojiler
 
-My Contributions
+### Diller
+- Java
+- JavaScript
+- Python
+- HTML
+- CSS
 
-* Vulnerability mapping module
-* CVE matching system
-* CVSS-based risk classification
-* JSON reporting system
+### Araçlar & Teknolojiler
+- Git & GitHub
+- Chrome Extension API
+- VS Code
+- WordPress
+- Elementor
 
-⸻
+---
 
-🛠 Tech Stack
+# 📚 İlgi Alanlarım
 
-Languages
+- Web Geliştirme
+- Browser Extension Development
+- Yapay Zeka Sistemleri
+- UI/UX
+- Yazılım Mimarisi
 
-* Java
-* JavaScript
-* Python
-* HTML
-* CSS
+---
 
-Tools & Technologies
+# 📫 İletişim
 
-* Git & GitHub
-* Chrome Extension API
-* WordPress
-* Elementor
-* VS Code
+- GitHub: https://github.com/cagridgnn
+- LinkedIn: https://linkedin.com/in/cagridgnn
 
-⸻
+---
 
-📚 Currently Learning
-
-* Advanced Cybersecurity Concepts
-* Secure Software Development
-* AI Integration in Browser Extensions
-* Object-Oriented Programming
-
-⸻
-
-📫 Contact
-
-* GitHub: https://github.com/cagridgnn
-* LinkedIn: https://linkedin.com/in/cagridgnn
-  
-
-⸻
-
-⭐ Always building, learning, and improving.
+⭐ Sürekli öğreniyor, geliştiriyor ve yeni projeler üretiyorum.
