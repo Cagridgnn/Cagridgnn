@@ -5,7 +5,7 @@ Web teknolojileri, tarayıcı eklentileri, yapay zeka destekli sistemler ve kull
 
 ---
 
-# 🚀 Projelerim
+#  Projelerim
 
 ## 🔹 Disleksi-Web-Düzenleyici
 
@@ -50,7 +50,7 @@ Zafiyet analizi ve risk sınıflandırması üzerine geliştirilen ekip tabanlı
 
 ---
 
-# 📚 İlgi Alanlarım
+#  İlgi Alanlarım
 
 - Web Geliştirme
 - Browser Extension Development
@@ -60,8 +60,8 @@ Zafiyet analizi ve risk sınıflandırması üzerine geliştirilen ekip tabanlı
 
 ---
 
-# 📫 İletişim
+#  İletişim
 
 - GitHub: https://github.com/cagridgnn
 - 
-⭐ Sürekli öğreniyor, geliştiriyor ve yeni projeler üretiyorum.
+ Sürekli öğreniyor, geliştiriyor ve yeni projeler üretiyorum.
